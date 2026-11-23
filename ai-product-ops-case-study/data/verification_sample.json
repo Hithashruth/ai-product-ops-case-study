@@ -1,0 +1,14 @@
+[
+  {"app":"HubSpot","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"Salesforce","first_pass_correct":false,"final_correct":true,"correction":"Changed self-serve to conditional: connected-app policy is org-admin controlled."},
+  {"app":"Slack","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"Google Ads","first_pass_correct":false,"final_correct":true,"correction":"Added developer-token approval as a material build blocker."},
+  {"app":"Shopify","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"Amazon Selling Partner","first_pass_correct":false,"final_correct":true,"correction":"Changed auth from OAuth-only to OAuth plus AWS SigV4."},
+  {"app":"Apify","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"Cloudflare","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"Notion","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"Stripe","first_pass_correct":true,"final_correct":true,"correction":""},
+  {"app":"NotebookLM","first_pass_correct":false,"final_correct":true,"correction":"Corrected a false API assumption: no general public NotebookLM product API."},
+  {"app":"fanbasis","first_pass_correct":true,"final_correct":true,"correction":""}
+]
